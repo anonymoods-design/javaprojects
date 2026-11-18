@@ -1,1 +1,60 @@
-
+import java.util.Scanner;
+public class Matrix {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        char again;
+ 
+        //1. Declare and create array
+        int num[][] = new int[3][3];
+do { //for the user to try again if they want
+        //2. Create Nested Loops for the 2D array
+        System.out.println("Input 9 elements:"); //Made println for users to know what to input
+        for (int r=0;r<9;r++) { //for loop value is for the 2D array, 9 because its 3 for rows and 3 for cloumns
+            int row = r / 3; //row value
+            int column = r % 3; //column value
+            num[row][column] = sc.nextInt(); //users input for the array
+        }
+        System.out.println("\n=============================================="); //border
+        System.out.print("                          Row Sum\n"); //the title
+        for (int dis=0;dis<9;dis++) { //this other loop value is for displaying the array
+            int row = dis / 3; //row value
+            int column = dis % 3; //column value
+            if (column == 0) {
+                System.out.print("            ");
+            }
+            System.out.printf("%4d", num[row][column]); //for displaying the display,
+            if (column == 2) { //if the column is 2, will display the sum of the rows
+                System.out.printf(
+                    "%6d%n",
+                    num[row][0] + num[row][1] + num[row][2] // to get the row sum, we add the values of [row] + column[0], so on and so forth
+                ); //sum of the rows
+            }
+        }
+       
+        System.out.printf(
+            "Column sum: %4d%4d%4d%n",
+            num[0][0] + num[1][0] + num[2][0],
+            num[0][1] + num[1][1] + num[2][1], //for the column sum. we add the values of every column of col[0] + row[0], so on and so forth
+            num[0][2] + num[1][2] + num[2][2]
+        ); //sum of the columns
+        System.out.println("=============================================="); //border
+        System.out.printf(
+            "Diagonal Sum 1: %d%n",
+            num[0][0] + num[1][1] + num[2][2] //for the diagonal sum, we add the values of the diagonal line, starting from top left to bottom right
+        ); //top-left to bottom-right
+        System.out.printf(
+            "Diagonal Sum 2: %d%n",
+            num[0][2] + num[1][1] + num[2][0] //for the diagonal sum #2, we add from top right to bottom left
+        ); //top-right to bottom-left
+        System.out.println("");
+        System.out.println("Try again [y|n]: "); //this loop is for the user if they want to try again
+        again = sc.next().charAt(0);
+    }
+    while (Character.toLowerCase(again) == 'y'); //this is for the program to loop if the user inputs capital 'Y' or lowercase 'y'
+ 
+ 
+    }
+}
+ 
+ 
+//Modify the Try again part and accept a char instead of a String.
