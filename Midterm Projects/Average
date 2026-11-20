@@ -1,0 +1,53 @@
+import java.util.Scanner;
+public class Average {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        //int grades[][][] creates a 3 dimentional array and in order goes by[section][student][subject] while the one dimentional array is the subjects, which is why it is declared as a string array
+        int grades[][][] = new int [2][3][3]; 
+        String[] subjects = {"Java", "Database", "Networking"};
+
+        //Input grades, a for loop for the students, variable 2 because there are 2 sections. 
+        // a for loop for the students, variable 3 because there are 3 students. a for loop for the students, variable 3 because there are 3 subjects
+        //and a input line for the user to input the grades for the students
+        for (int s = 0; s < 2; s++) { 
+            for (int st = 0; st < 3; st++) { 
+                for (int sub = 0; sub < 3; sub++) { 
+                    System.out.print("Section " + (s + 1) + " Student " + (st + 1) + " - Enter grade for subject " + (sub + 1) + " (Java, Database, Networking): "); //sout for the user to know what he or she is inputting.
+                    grades[s][st][sub] = sc.nextInt(); //this is the input line for the user to input the grades for the students
+                }
+            }
+        }
+        sc.close(); //closes the scanner to prevent memory leaks
+
+        //Display each student's grades and calculate averages, double sectionTotal is for the total of the sections, studentTotal is for the students, and subjectTotal for the subjects.
+        //the int grade = grades[s][st][sub] is for the grades of the students, while the println prints out the student and their number
+        //example being Student + s+1 which in array terms will be section 1 [0] and student 1 [0] subject 1 [0]
+        //the computation of the grades to get the average of the students is done by first adding the grades of the students and then dividing it by 3, which is the number of the subjects.
+        //then the computation of the section average is done by getting the section total and dividing it by 9.
+        for (int s = 0; s < 2; s++) {
+            double sectionTotal = 0;
+            System.out.println("\nSECTION " + (s + 1));
+            System.out.println("------------------------------");
+            for (int st = 0; st < 3; st++) {
+                double studentTotal = 0;
+                System.out.println("Student " + (st + 1));
+                for (int sub = 0; sub < 3; sub++) {
+                    int grade = grades[s][st][sub];
+                    studentTotal += grade;
+                    System.out.printf("%-12s %d%n", subjects[sub] + ":", grade);
+                }
+                sectionTotal += studentTotal;
+                double studentAverage = studentTotal / 3;
+                System.out.printf("Student Average: %.2f%n", studentAverage);
+                if (studentAverage >= 75) {
+                    System.out.println("Status: Passed\n");
+                } else {
+                    System.out.println("Status: Failed\n");
+                }
+            }
+            System.out.println("========================================");
+            System.out.printf("Section Average: %.2f%n", sectionTotal / 9);
+        }
+    }
+}
