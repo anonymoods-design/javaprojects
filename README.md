@@ -1,26 +1,37 @@
 ```
-                   -`                    anonymoods@fourdesign
-                  .o+`                   ---------------------
-                 `ooo/                   OS: Arch Linux (btw) x86_64
-                `+oooo:                  Host: BSIT-MNL, 1st Year
-               `+oooooo:                 Kernel: ITE103
-               -+oooooo+:                Shell: bash
-             `/:-:++oooo+:               Languages: Java
-            `/++++/+++++++:              Editor: whatever compiles
-           `/++++++++++++++:             Packages: lol
-          `/+++ooooooooooooo/`           Uptime: since first semester
-         ./ooosssso++osssssso+`          Memory: Strings, Scanners, Matrices
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.        ████████████████████████
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+ ┌──────────────────────────────────────────────────────┐
+ │ 🪟 javaprojects - Windows Explorer          _ □ X │
+ ├──────────────────────────────────────────────────────┤
+ │ File   Edit   View   Favorites   Tools   Help        │
+ ├──────────────────────────────────────────────────────┤
+ │                                                      │
+ │        ▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄                          │
+ │        ████████   ████████     Microsoft® Windows    │
+ │        ████████   ████████     Version 95 / Vista    │
+ │                                                      │
+ │        ▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀     Registered to:        │
+ │        ████████   ████████     anonymoods/fourdesign │
+ │        ████████   ████████     BSIT-MNL · ITE103     │
+ │        ▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀                          │
+ │                                                      │
+ └──────────────────────────────────────────────────────┘
 ```
-#javaprojects
-> `[anonymoods@fourdesign ~]$ cat /etc/motd`
-Hi, I am anonymoods. a college student taking BSIT-MNL and these are the codes i've built
+# 📂C:/Users/anonymoods/Documents/javaprojects
+---
+```
+┌──────────────────────────────────────────────────────┐
+ │ 🪟 anonymoods - Notepad                    _ □ X │
+ ├──────────────────────────────────────────────────────┤
+ │ File   Edit   View   Favorites   Tools   Help        │
+ ├──────────────────────────────────────────────────────┤
+ │ hello, and welcome to my epic github page =D,        |
+ │ i am anonymoods, a college student studying BSIT-MNL
+ | and these are my epic coding journey xD 
+ <img width="300" height="169" alt="DogMattGIF" src="https://github.com/user-attachments/assets/4625fa54-50c4-4391-8a83-92efdb49c2c6" />
+
+ │                                                      │
+ │                                                      │
+ └──────────────────────────────────────────────────────┘
+ ```
 ---
 
