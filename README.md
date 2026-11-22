@@ -1,9 +1,23 @@
  ## javaprojects
 these are the codes that I built during ITE103
---
-sup im anonymoods/fourdesign, im a first year college student studying le epic course of BSIT-MNL
---
-Midterm Tasks
---
-[Labaratory Task 1: ](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%201%3A%20Matrix)
-[Labaratory Task 2: ](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%202%3A%20Average)
+```
+                   -`                    anonymoods@fourdesign
+                  .o+`                   ---------------------
+                 `ooo/                   OS: Arch Linux (btw) x86_64
+                `+oooo:                  Host: BSIT-MNL, 1st Year
+               `+oooooo:                 Kernel: ITE103
+               -+oooooo+:                Shell: bash
+             `/:-:++oooo+:               Languages: Java
+            `/++++/+++++++:              Editor: whatever compiles
+           `/++++++++++++++:             Packages: javac, jdk, caffeine
+          `/+++ooooooooooooo/`           Uptime: since first semester
+         ./ooosssso++osssssso+`          Memory: Strings, Scanners, Matrices
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.        ████████████████████████
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
