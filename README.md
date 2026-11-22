@@ -5,4 +5,5 @@ sup im anonymoods/fourdesign, im a first year college student studying le epic c
 --
 Midterm Tasks
 [Labaratory Task 1: ](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%201%3A%20Matrix)
-[Labaratory Task 2: ]()
+--
+[Labaratory Task 2: ](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%202%3A%20Average)
