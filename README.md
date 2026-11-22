@@ -1,5 +1,3 @@
- ## javaprojects
-these are the codes that I built during ITE103
 ```
                    -`                    anonymoods@fourdesign
                   .o+`                   ---------------------
@@ -9,7 +7,7 @@ these are the codes that I built during ITE103
                -+oooooo+:                Shell: bash
              `/:-:++oooo+:               Languages: Java
             `/++++/+++++++:              Editor: whatever compiles
-           `/++++++++++++++:             Packages: javac, jdk, caffeine
+           `/++++++++++++++:             Packages: lol
           `/+++ooooooooooooo/`           Uptime: since first semester
          ./ooosssso++osssssso+`          Memory: Strings, Scanners, Matrices
         .oossssso-````/ossssss+`
@@ -21,3 +19,8 @@ these are the codes that I built during ITE103
  `++:.                           `-/+/
  .`                                 `/
 ```
+#javaprojects
+> `[anonymoods@fourdesign ~]$ cat /etc/motd`
+Hi, I am anonymoods. a college student taking BSIT-MNL and these are the codes i've built
+---
+
