@@ -1,20 +1,5 @@
 ```
- ┌──────────────────────────────────────────────────────┐
- │ 🪟 javaprojects - Windows Explorer          _ □ X │
- ├──────────────────────────────────────────────────────┤
- │ File   Edit   View   Favorites   Tools   Help        │
- ├──────────────────────────────────────────────────────┤
- │                                                      │
- │        ▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄                          │
- │        ████████   ████████     Microsoft® Windows    │
- │        ████████   ████████     Version 95 / Vista    │
- │                                                      │
- │        ▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀     Registered to:        │
- │        ████████   ████████     anonymoods/fourdesign │
- │        ████████   ████████     BSIT-MNL · ITE103     │
- │        ▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀                          │
- │                                                      │
- └──────────────────────────────────────────────────────┘
+ <p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
 ```
 # 📂C:/Users/anonymoods/Documents/javaprojects
 ---
