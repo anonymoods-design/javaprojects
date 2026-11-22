@@ -1,11 +1,10 @@
+<p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
 ```
- <p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
-```
-# 📂C:/Users/anonymoods/Documents/javaprojects
+# 📂C:/Users/anonymoods/javaprojects
 ---
 ```
-┌──────────────────────────────────────────────────────┐
- │ 🪟 anonymoods - Notepad                    _ □ X │
+ ┌──────────────────────────────────────────────────────┐
+ │ 🪟 anonymoods - Notepad                        _ □ X |
  ├──────────────────────────────────────────────────────┤
  │ File   Edit   View   Favorites   Tools   Help        │
  ├──────────────────────────────────────────────────────┤
@@ -17,4 +16,5 @@
  └──────────────────────────────────────────────────────┘
  ```
 ---
+<img src="bg.png">
 
