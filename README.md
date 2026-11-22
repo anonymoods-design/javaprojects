@@ -17,5 +17,6 @@
  └──────────────────────────────────────────────────────┘
  ```
 ---
-<img src="bg.png">
+## 📂C:/Users/anonymoods/javaprojects/Midterm Projects
+---
 
