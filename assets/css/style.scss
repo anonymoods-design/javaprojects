@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Use bg.png as a full-screen page background */
+html {
+  min-height: 100%;
+  background-color: #1b2a49; /* shown while the image loads */
+}
+
+body {
+  background-image: url("{{ '/bg.png' | relative_url }}");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
