@@ -1,7 +1,6 @@
 <p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
-```
-# 📂C:/Users/anonymoods/javaprojects
 
+# 📂C:/Users/anonymoods/javaprojects
 ---
 ```
  ┌──────────────────────────────────────────────────────┐
@@ -19,4 +18,5 @@
 ---
 ## 📂C:/Users/anonymoods/javaprojects/Midterm Projects
 ---
-
+📄 [Midterm Task 1](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%201%3A%20Matrix)
+📄 [Midterm Task 2](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%202%3A%20Average)
