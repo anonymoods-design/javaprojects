@@ -28,5 +28,3 @@
 \
 📄 [Documentation](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/MidtermTask2_Villanueva_Paul_Henrick_M.pdf)
 ```
-
-
