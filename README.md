@@ -1,9 +1,7 @@
 <p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
 
-# 📂C:/Users/anonymoods/javaprojects/anonymoods.txt
----
 ```
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠶⠶⠶⠶⠶⢦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀      ⣀⣠⣤⠶⠶⠶⠶⠶⢦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⡶⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⢦⣄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣰⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⣄⠀⠀⠀⠀
 ⠀⠀⢠⡾⠁⠀⠀⢀⣤⣤⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⡙⢷⡀⠀⠀
@@ -17,7 +15,12 @@
 ⠀⠀⠘⢷⡀⠀⠀⢻⣿⡻⠋⠁⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⡿⠃⠀⢠⡾⠁⠀⠀
 ⠀⠀⠀⠀⠻⣦⡀⠀⠙⠷⣤⣀⠀⠀⠀⠀⠀⠈⣿⣿⡿⠋⠀⣀⡴⠋⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⠀⠉⠛⠓⠒⠒⠒⠚⠋⠁⣠⣤⠾⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠶⠶⠶⠶⠶⠶⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀   ┌──────────────────────────────────────────────────────┐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠶⠶⠶⠶⠶⠶⠛⠋⠉⠀⠀⠀⠀ 
+
+# 📂C:/Users/anonymoods/javaprojects/anonymoods.txt
+---
+``
+ ⠀⠀⠀⠀⠀                           ⠀⠀  ┌──────────────────────────────────────────────────────┐
                                       │ 🪟 anonymoods - Notepad                        _ □ X |  
                                       ├──────────────────────────────────────────────────────┤
                                       │ File   Edit   View   Favorites   Tools   Help        │
@@ -41,4 +44,4 @@
 📄 [Midterm Task 2](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%202%3A%20Average)
 \
 📄 [Documentation](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/MidtermTask2_Villanueva_Paul_Henrick_M.pdf)
-```
+
