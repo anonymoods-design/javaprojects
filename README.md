@@ -5,17 +5,17 @@
   <div class="profile-name">anonymoods</div>
 </div>
 
-                          ┌──────────────────────────────────────────────────────┐
-                          │ 🪟 anonymoods - Notepad                        _ □ X |  
-                          ├──────────────────────────────────────────────────────┤
-                          │ File   Edit   View   Favorites   Tools   Help        │
-                          ├──────────────────────────────────────────────────────┤
-                          │ hello, and welcome to my epic github page =D,        |
-                          │ i am anonymoods, a college student studying BSIT-MNL |
-                          | and these are my epic coding journey xD              |
-                          │                                                      │
-                          │                                                      │
-                          └──────────────────────────────────────────────────────┘
+                  ┌──────────────────────────────────────────────────────┐
+                  │ 🪟 anonymoods - Notepad                        _ □ X |  
+                  ├──────────────────────────────────────────────────────┤
+                  │ File   Edit   View   Favorites   Tools   Help        │
+                  ├──────────────────────────────────────────────────────┤
+                  │ hello, and welcome to my epic github page =D,        |
+                  │ i am anonymoods, a college student studying BSIT-MNL |
+                  | and these are my epic coding journey xD              |
+                  │                                                      │
+                  │                                                      │
+                  └──────────────────────────────────────────────────────┘
 
 
 
