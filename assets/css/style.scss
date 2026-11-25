@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-image: url("{{ '/bg.png' | relative_url }}");
+  background-image: url("{{ '/cleanery.png' | relative_url }}");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
