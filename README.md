@@ -59,3 +59,8 @@
 \
 📄 [Documentation](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/MidtermTask2_Villanueva_Paul_Henrick_M.pdf)
 
+### 📂 C:/Users/anonymoods/javaprojects/Midterm Projects/Midterm Task 3
+[Midterm Task 3]()
+\
+[Documentation]()
+
