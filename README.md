@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.svg" alt="Windows 95 style javaprojects window" width="800"> </p>
+<p align="center"> <img src="start.png" alt="Windows 95 style javaprojects window" width="800"> </p>
 
 <div class="profile">
   <div class="avatar-frame"><img src="profile.png" width="96" height="96" alt="profile picture"></div>
