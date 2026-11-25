@@ -42,7 +42,7 @@
 
  
 ---
-## 📂 C:/Users/anonymoods/javaprojects/Midterm Projects
+# 📂 C:/Users/anonymoods/javaprojects/Midterm Projects
 ---
 ### 📂 C:/Users/anonymoods/javaprojects/Midterm Projects/Midterm Task 1
 📄 [Midterm Task 1](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%201%3A%20Matrix)
