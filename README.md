@@ -55,7 +55,13 @@
 📄 [Documentation](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/MidtermTask2_Villanueva_Paul_Henrick_M.pdf)
 
 ### 📂 C:/Users/anonymoods/javaprojects/Midterm Projects/Midterm Task 3
-📄 [Midterm Task 3]()
+📄 [Midterm Task 3](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/Lab%20Task%203%20-%20Student%20Grade%20Man)
 \
-📄 [Documentation]()
+📄 [Documentation](https://github.com/anonymoods-design/javaprojects/blob/main/Midterm%20Projects/MidtermTask3_Villanueva_PaulHenrick_M.pdf)
+
+### 📂 C:/Users/anonymoods/javaprojects/Midterm Projects/Midterm Task 4
+📄 [Midterm Task 4]()
+\
+📄 [Documentation](}
+
 
