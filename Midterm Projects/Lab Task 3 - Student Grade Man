@@ -1,0 +1,131 @@
+import java.util.Scanner;
+public class StudentGradeMan {
+public static void studInfo (String stNumber, String stName, String stCourse, String yrLevel) {
+    System.out.println("------------------------------------");
+    System.out.println("Student Number \t: " + stNumber);
+    System.out.println("Student Name \t: " + stName);
+    System.out.println("Course \t: " + stCourse);
+    System.out.println("Year level \t: " + yrLevel);
+    System.out.println("------------------------------------");
+    
+}
+
+public static String getEquiv(double ave, char choice)
+    {
+        switch(choice)
+        {
+            case 'L': case 'l':
+            {
+                if(ave >= 90)
+                {
+                    return "A";
+                }
+                else if(ave >= 89) {
+                    return "B";
+                }
+                else if(ave >= 82) {
+                    return "C";
+                }
+                else if(ave >= 74) {
+                    return "D";
+                }
+                else {
+                    return "F";
+                }
+            }
+			
+            case 'N':case 'n':
+            {
+                if (ave >= 96)
+                {
+                    return "4.00";
+                }
+                else if (ave >= 95)
+                {
+                    return "3.50";
+                }
+                else if (ave >= 89)
+                {
+                    return "3.00";
+                }
+                else if (ave >= 83)
+                {
+                    return "2.50";
+                }
+                else if (ave >= 76)
+                {
+                    return "2.00";
+                }
+                else
+                {
+                    return "1.00";
+                }
+            }
+            default:
+            {
+                return "No Match!!!";
+            }
+        }
+    }
+
+
+    public static double getAverage(double a, double b, double c) {
+        double sum = a + b + c;
+        double average2 = sum / 3;
+        return average2;
+    }
+public static String getRemarks(double average2) {
+    if (average2 >= 60) {
+        return "Passed";
+    } else {
+        return "Failed";
+    }
+}
+ 
+public static void displayResult (double average, char choice, String number,
+                                  String name, String course, String yearLevel) {
+    System.out.println("--------------------------------------------------------------");
+    System.out.println("Student Details: " + number + " " + course + " " + yearLevel);
+    System.out.println("Full Name:" + name);
+    System.out.println("--------------------------------------------------------------");
+    System.out.printf("Average is: %.2f \n", average);
+    System.out.println("Letter Grade is: " + getEquiv(average, choice));
+    System.out.println("Remarks is: " + getRemarks(average));
+   System.out.println("--------------------------------------------------------------");
+}
+ 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("--------------------------------------------------------------");;
+        System.out.println("Sample Output: ");
+      System.out.println("--------------------------------------------------------------");
+        System.out.print("Enter Student Number: ");
+        String number = sc.nextLine();
+        System.out.print("Enter Student Name: ");
+        String name = sc.nextLine();
+        System.out.print("Enter Course: ");
+        String course = sc.nextLine();
+        System.out.print("Enter Year Level: ");
+        String yearlevel = sc.nextLine();
+        System.out.println("--------------------------------------------------------------");;
+        System.out.print("Enter your grade 1: ");
+        int grade1 = sc.nextInt();
+        System.out.print("Enter your grade 2: ");
+        int grade2 = sc.nextInt();
+        System.out.print("Enter your grade 3: ");
+        int grade3 = sc.nextInt();
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("Display Letter Grade or Numeric Grade [L|N]?: ");
+        System.out.println();
+        System.out.println("--------------------------------------------------------------");
+        String displayGrade = sc.nextLine();
+
+        
+        double average = getAverage(grade1, grade2, grade3);
+        char choice = displayGrade.isEmpty() ? ' ' : displayGrade.charAt(0);
+        displayResult(average, choice, number, name, course, yearlevel);
+ 
+ 
+       
+    }
+}
